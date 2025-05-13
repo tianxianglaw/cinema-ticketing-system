@@ -1,0 +1,100 @@
+Alice,Inception,20:00 2025-04-10,A1,A2,2,1,100.0
+Bob,Interstellar,18:30 2025-04-12,B1,B2,B3,3,0,150.0
+Charlie,The Dark Knight,21:00 2025-04-15,C1,C2,2,0,80.0
+David,Inception,19:45 2025-04-16,D1,D2,D3,3,1,180.0
+Emma,The Dark Knight,17:15 2025-04-18,E1,E2,2,2,130.0
+Frank,Interstellar,20:45 2025-04-20,F1,F2,F3,3,1,190.0
+Grace,Inception,21:30 2025-04-22,G1,G2,2,0,90.0
+Henry,The Dark Knight,18:00 2025-04-24,H1,H2,H3,3,2,210.0
+Isabelle,Interstellar,16:45 2025-04-25,I1,I2,2,2,120.0
+Jack,Inception,20:00 2025-04-27,J1,J2,J3,3,0,140.0
+Sophia,Inception,19:00 2025-03-01,A1,A2,2,0,100.0
+Ethan,The Dark Knight,20:30 2025-03-02,B1,B2,B3,3,1,150.0
+Olivia,Interstellar,18:45 2025-03-03,C1,C2,C3,3,0,180.0
+Daniel,Inception,21:00 2025-03-04,D1,D2,2,1,120.0
+Liam,The Dark Knight,19:15 2025-03-05,E1,E2,2,0,110.0
+Emma,Interstellar,20:00 2025-03-06,F1,F2,2,2,140.0
+Noah,Inception,20:30 2025-03-07,G1,G2,G3,3,1,175.0
+Mia,The Dark Knight,19:45 2025-03-08,H1,H2,2,0,130.0
+James,Interstellar,21:15 2025-03-09,I1,I2,I3,3,2,210.0
+Ava,Inception,18:30 2025-03-10,J1,J2,J3,3,0,160.0
+William,The Dark Knight,20:00 2025-03-11,A1,A2,2,0,95.0
+Sophie,Interstellar,19:30 2025-03-12,B1,B2,B3,3,1,155.0
+Benjamin,Inception,21:45 2025-03-13,C1,C2,C3,3,2,225.0
+Charlotte,The Dark Knight,20:15 2025-03-14,D1,D2,2,1,135.0
+Lucas,Interstellar,19:00 2025-03-15,E1,E2,2,0,105.0
+Henry,Inception,21:30 2025-03-16,F1,F2,F3,3,1,170.0
+Ella,The Dark Knight,19:45 2025-03-17,G1,G2,2,2,145.0
+Mason,Interstellar,20:30 2025-03-18,H1,H2,H3,3,0,190.0
+Amelia,Inception,18:00 2025-03-19,I1,I2,2,1,125.0
+Alexander,The Dark Knight,20:45 2025-03-20,J1,J2,J3,3,2,200.0
+Layla,Interstellar,19:15 2025-03-21,A1,A2,2,0,115.0
+Elijah,Inception,21:00 2025-03-22,B1,B2,B3,3,1,165.0
+Scarlett,The Dark Knight,20:00 2025-03-23,C1,C2,C3,3,0,185.0
+Harper,Interstellar,19:45 2025-03-24,D1,D2,2,2,150.0
+Jack,Inception,20:30 2025-03-25,E1,E2,E3,3,1,180.0
+Natalie,Interstellar,21:00 2025-03-26,F1,F2,2,0,120.0
+Oliver,Inception,19:30 2025-03-27,G1,G2,G3,3,1,175.0
+Zoe,The Dark Knight,20:45 2025-03-28,H1,H2,2,2,140.0
+Max,Interstellar,18:30 2025-03-29,I1,I2,I3,3,0,190.0
+Hannah,Inception,21:15 2025-03-30,J1,J2,2,1,125.0
+Leo,The Dark Knight,20:00 2025-03-31,A1,A2,A3,3,0,160.0
+Victoria,Interstellar,19:30 2025-04-01,B1,B2,2,1,105.0
+Ryan,Inception,21:45 2025-04-02,C1,C2,C3,3,2,215.0
+Madeline,The Dark Knight,20:15 2025-04-03,D1,D2,2,0,95.0
+Eli,Interstellar,19:00 2025-04-04,E1,E2,E3,3,1,170.0
+Lily,Inception,20:30 2025-04-05,F1,F2,2,2,145.0
+Hudson,The Dark Knight,19:45 2025-04-06,G1,G2,G3,3,0,185.0
+Aubrey,Interstellar,21:30 2025-04-07,H1,H2,2,1,130.0
+Parker,Inception,18:45 2025-04-08,I1,I2,2,0,115.0
+Sadie,The Dark Knight,20:00 2025-04-09,J1,J2,J3,3,1,165.0
+Cole,Interstellar,19:15 2025-04-10,A1,A2,2,2,150.0
+Julian,Inception,21:00 2025-04-11,B1,B2,B3,3,0,180.0
+Paisley,The Dark Knight,20:30 2025-04-12,C1,C2,2,1,125.0
+Jayden,Interstellar,19:45 2025-04-13,D1,D2,D3,3,2,200.0
+Alexa,Inception,18:30 2025-04-14,E1,E2,2,0,110.0
+Logan,Interstellar,21:30 2025-03-15,F1,F2,F3,3,0,180.0
+Lydia,Inception,19:45 2025-03-16,G1,G2,2,2,140.0
+Evan,The Dark Knight,20:15 2025-03-17,H1,H2,H3,3,1,195.0
+Hazel,Interstellar,18:30 2025-03-18,I1,I2,2,0,110.0
+Carter,Inception,21:00 2025-03-19,J1,J2,J3,3,2,210.0
+Grace,The Dark Knight,19:30 2025-03-20,A1,A2,2,1,135.0
+Leo,Interstellar,20:45 2025-03-21,B1,B2,B3,3,0,170.0
+Vivian,Inception,18:00 2025-03-22,C1,C2,2,2,145.0
+Roman,The Dark Knight,21:15 2025-03-23,D1,D2,D3,3,1,185.0
+Savannah,Interstellar,19:45 2025-03-24,E1,E2,2,0,120.0
+Vincent,Inception,20:30 2025-03-25,F1,F2,F3,3,2,215.0
+Elena,The Dark Knight,18:45 2025-03-26,G1,G2,2,1,125.0
+Beau,Interstellar,21:00 2025-03-27,H1,H2,H3,3,0,160.0
+Aurora,Inception,20:30 2025-03-28,I1,I2,2,2,135.0
+Nolan,The Dark Knight,19:45 2025-03-29,J1,J2,J3,3,1,200.0
+Serena,Interstellar,18:00 2025-03-30,A1,A2,2,0,105.0
+Luis,Inception,21:15 2025-03-31,B1,B2,B3,3,2,220.0
+Phoebe,The Dark Knight,19:30 2025-04-01,C1,C2,2,1,130.0
+Derek,Interstellar,20:45 2025-04-02,D1,D2,D3,3,0,180.0
+Melody,Inception,21:00 2025-04-03,E1,E2,2,2,155.0
+George,The Dark Knight,20:30 2025-04-04,F1,F2,F3,3,1,190.0
+Juliette,Interstellar,19:45 2025-04-05,G1,G2,2,0,125.0
+Travis,Inception,18:45 2025-04-06,H1,H2,H3,3,2,205.0
+Kendall,The Dark Knight,21:30 2025-04-07,I1,I2,2,1,140.0
+Tucker,Interstellar,19:00 2025-04-08,J1,J2,J3,3,0,175.0
+Sophia,Interstellar,20:15 2025-04-09,A1,A2,2,1,140.0
+Ethan,Inception,18:45 2025-04-10,B1,B2,B3,3,0,180.0
+Olivia,The Dark Knight,21:00 2025-04-11,C1,C2,2,2,155.0
+Daniel,Interstellar,19:30 2025-04-12,D1,D2,D3,3,1,195.0
+Liam,Inception,20:45 2025-04-13,E1,E2,2,0,125.0
+Emma,The Dark Knight,21:15 2025-04-14,F1,F2,F3,3,2,215.0
+Noah,Interstellar,19:00 2025-04-15,G1,G2,2,1,130.0
+Mia,Inception,18:30 2025-04-16,H1,H2,H3,3,0,165.0
+James,The Dark Knight,20:00 2025-04-17,I1,I2,2,2,150.0
+Ava,Interstellar,21:45 2025-04-18,J1,J2,J3,3,1,200.0
+William,Inception,19:15 2025-04-19,A1,A2,2,0,110.0
+Sophie,The Dark Knight,20:30 2025-04-20,B1,B2,B3,3,2,210.0
+Benjamin,Interstellar,21:00 2025-04-21,C1,C2,2,1,135.0
+Charlotte,Inception,18:45 2025-04-22,D1,D2,D3,3,0,175.0
+Lucas,The Dark Knight,19:30 2025-04-23,E1,E2,2,2,145.0
+Henry,Interstellar,20:15 2025-04-24,F1,F2,F3,3,1,185.0
+Ella,Inception,21:30 2025-04-25,G1,G2,2,0,120.0
+Mason,The Dark Knight,18:00 2025-04-26,H1,H2,H3,3,2,205.0
+Amelia,Interstellar,19:45 2025-04-27,I1,I2,2,1,140.0
+Alexander,Inception,20:45 2025-04-28,J1,J2,J3,3,0,170.0
